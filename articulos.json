@@ -1,0 +1,21 @@
+{
+    "peso": 10,
+    "articulos":
+    [
+        {
+            "nombre" : "A",
+            "peso" : "2",
+            "beneficio" : "3"
+        },
+        {
+            "nombre" : "B",
+            "peso" : "4",
+            "beneficio" : "8"
+        },
+        {
+            "nombre" : "C",
+            "peso" : "5",
+            "beneficio" : "1"
+        }
+    ]
+}
